@@ -1,1 +1,2 @@
-print("Hello world", 42)
+list =['Hello World', 42 ]
+print list[0:1]
