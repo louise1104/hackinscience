@@ -1,2 +1,2 @@
-list = ['Hello World', 42]
+list = ['Hello world', 42]
 print(list)
