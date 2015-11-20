@@ -1,4 +1,4 @@
-phantom_menace =("""Turmoil has engulfed the Galactic Republic. The\
+phantom_menace = ("""Turmoil has engulfed the Galactic Republic. The\
  taxation of trade routes to outlying star systems is in\
  dispute. Hoping to resolve the matter with a blockade of deadly\
  battleships, the greedy Trade Federation has stopped all shipping to\
@@ -8,4 +8,4 @@ phantom_menace =("""Turmoil has engulfed the Galactic Republic. The\
  peace and justice in the galaxy, to settle the conflict""")
 phantom_menace.split(' ')
 i = len(phantom_menace.split(' '))
-print (i)
+print(i)
