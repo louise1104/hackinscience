@@ -1,6 +1,6 @@
 import operator
 import math
 i = operator.truediv(245850922, 78256779)
-j = operator.truediv((operator.add (1, math.sqrt(5))), 2)
+j = operator.truediv((operator.add(1, math.sqrt(5))), 2)
 print(i)
 print(j)
