@@ -1,4 +1,5 @@
 import sys
 import operator
-a=sys.argv[2] ,b=sys.argv[3]
-operator.add(a, b)
+if len(sys.argv) > 1: 
+print(operator.add(2, 3))
+else print(usage: python3 solution.py OP1 OP2)
